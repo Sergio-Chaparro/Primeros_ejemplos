@@ -32,6 +32,6 @@ int main(void)
 	printf("n1/n2 = ");
 	printf("%lf", (double) n1/n2);	
 	printf("\n");
-
+					//jaja
 	return 0;
 }
