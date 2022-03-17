@@ -9,7 +9,7 @@ int main(void)
 	n1 = 1;
 	n2 = 2;
 
-	// Muestra diferentes divisiones
+	// Muestra diferentes divisiones jajajajaja
 	printf("3/2 = ");
 	printf("%i", 3/2);
 	printf("\n");
